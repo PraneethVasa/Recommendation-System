@@ -1,0 +1,9 @@
+# Core Python Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+flask
+sphinx
